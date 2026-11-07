@@ -188,6 +188,7 @@ a.pitem:hover{background:var(--surface-2)}
 .bars .bt i{position:absolute;top:0;bottom:0;border-radius:4px;background:var(--accent)}
 .bars .bt i.up{background:var(--up)}.bars .bt i.down{background:var(--down)}
 .bars .bz{position:absolute;top:-3px;bottom:-3px;width:1px;background:var(--muted)}
+.rpdf{display:flex;flex-wrap:wrap;align-items:center;gap:8px 12px;margin:14px 0}.rpdf .mute{font-size:.85em}
 .factbox{border:1px solid var(--line);border-radius:12px;background:var(--surface-2);padding:10px 12px}
 .factbox h2{margin:0 0 6px;font-size:12.5px;color:var(--muted)}
 .facts{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:9px}
